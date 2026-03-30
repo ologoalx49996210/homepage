@@ -22,3 +22,6 @@ Personal development log — notes, findings, and ongoing work.
 - Noted known limitation in docs
 - Added basic usage examples to README
 - Resolved deprecation warnings
+
+## 2026-03-30
+- Wrote notes on upcoming feature design
