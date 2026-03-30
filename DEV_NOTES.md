@@ -30,3 +30,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added inline documentation for core functions
 - Updated .gitignore to exclude build artifacts
 - Fixed minor edge case in input handling
+
+## 2026-03-30
+- Resolved TODO items from previous session
